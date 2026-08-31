@@ -1,0 +1,100 @@
+{
+  "C01": {
+    "titulo": "Quem define sua rota hoje?",
+    "data": "19/08",
+    "legenda": "Quem manda na rota da sua frota hoje?\nSe a resposta é \"a intuição do motorista\" ou \"uma planilha que só registra\", existe economia escondida na sua operação.\nCom roteirização, o AMX calcula o trajeto com dados reais da sua frota.\nFale conosco no WhatsApp (link na bio).\n#logistica #roteirizacao #gestaodefrotas #americatrack",
+    "frames": [
+      { "file": "c01-roteirizacao-slide-1.png", "alt": "Capa do carrossel Americatrack, fundo escuro com barra laranja no topo: 'Quem define sua rota hoje: você, o motorista ou uma planilha?'" },
+      { "file": "c01-roteirizacao-slide-2.png", "alt": "Slide 2 de 5: 'A planilha mostra onde você esteve. Não mostra onde você deveria estar.'" },
+      { "file": "c01-roteirizacao-slide-3.png", "alt": "Slide 3 de 5: 'Rota na intuição é combustível a mais, hora parada e entrega atrasada. Você só descobre no relatório do fim do mês.'" },
+      { "file": "c01-roteirizacao-slide-4.png", "alt": "Slide 4 de 5: 'A roteirização do AMX calcula o trajeto com dados da sua frota. Menos palpite, mais controle.'" },
+      { "file": "c01-roteirizacao-slide-5.png", "alt": "Slide final: 'Quer ver a rota certa na sua tela?' com botão de CTA 'Fale conosco no WhatsApp' e logo AmericaTrack." }
+    ]
+  },
+  "C02": {
+    "titulo": "3 dores que drenam sua frota todo mês",
+    "data": "25/08",
+    "legenda": "Três dores drenam a sua frota todo mês: combustível na rota errada, motorista sem visibilidade e multas sem controle.\nO AMX ataca as três com roteirização, câmeras e gestão.\nFale conosco no WhatsApp (link na bio).\n#gestaodefrotas #combustivel #multas #americatrack",
+    "frames": [
+      { "file": "c02-3dores-slide-1.png", "alt": "Capa do carrossel: '3 dores que drenam sua frota todo mês', fundo escuro com barra laranja no topo." },
+      { "file": "c02-3dores-slide-2.png", "alt": "Slide 2 de 5, dor 1: 'Combustível — a rota errada queima diesel sem você ver.'" },
+      { "file": "c02-3dores-slide-3.png", "alt": "Slide 3 de 5, dor 2: 'Motorista — sem visibilidade da dirigibilidade, o desgaste aparece tarde.'" },
+      { "file": "c02-3dores-slide-4.png", "alt": "Slide 4 de 5, dor 3: 'Multas — sem controle, cada notificação vira custo fixo.'" },
+      { "file": "c02-3dores-slide-5.png", "alt": "Slide final: 'O AMX ataca as três: roteirização, câmeras e controle.' com CTA 'Fale conosco no WhatsApp' e logo AmericaTrack." }
+    ]
+  },
+  "C03": {
+    "titulo": "O AMX completo além do mapa",
+    "data": "29/08",
+    "legenda": "Você paga rastreador e usa só o mapa?\nO AMX é o sistema completo: gestão, roteirização e videotelemetria num só lugar.\nPare de pagar por algo que só mostra o mapa.\nFale conosco no WhatsApp (link na bio).\n#gestaodefrotas #amx #roteirizacao #americatrack",
+    "frames": [
+      { "file": "c03-subutilizacao-slide-1.png", "alt": "Capa do carrossel: 'Você paga rastreador e usa só o mapa?', fundo escuro com barra laranja no topo." },
+      { "file": "c03-subutilizacao-slide-2.png", "alt": "Slide 2 de 5: 'O rastreador comum vira despesa quando não sai do painel.'" },
+      { "file": "c03-subutilizacao-slide-3.png", "alt": "Slide 3 de 5: 'Ferramenta parada é dinheiro parado. Roteirização, câmeras e relatórios existem. Quase ninguém usa.'" },
+      { "file": "c03-subutilizacao-slide-4.png", "alt": "Slide 4 de 5: 'O AMX é o sistema completo: gestão, roteirização e videotelemetria num só lugar.'" },
+      { "file": "c03-subutilizacao-slide-5.png", "alt": "Slide final: 'Pare de pagar por algo que só mostra o mapa.' com CTA 'Fale conosco no WhatsApp' e logo AmericaTrack." }
+    ]
+  },
+  "P01": {
+    "titulo": "O que seu relatório de frota deveria mostrar",
+    "data": "20/08",
+    "legenda": "O que ninguém te conta sobre relatório de frota: se ele só mostra onde o caminhão esteve, ele não está te ajudando a decidir.\nO relatório certo mostra onde o custo está escapando, qual rota saiu mais cara e onde o motorista perde tempo.\nCom o AMX, os dados da sua frota viram decisão.\nFale conosco no WhatsApp (link na bio).\n#gestaodefrotas #relatorio #logistica #americatrack",
+    "frames": [
+      { "file": "p01-relatorio.png", "alt": "Post Americatrack, fundo escuro: 'O relatório que só mostra onde o caminhão esteve não é relatório, é histórico.' Lista: onde o custo está escapando, qual rota saiu mais cara, onde o motorista perde tempo. CTA 'Fale conosco no WhatsApp'." }
+    ]
+  },
+  "P02": {
+    "titulo": "1 dor + 1 benefício AMX (combustível)",
+    "data": "23/08",
+    "legenda": "O erro mais caro da frota é culpar o motorista pelo combustível alto.\nA dor é a rota errada queimando diesel antes de você perceber.\nO benefício do AMX: a rota certa antes do tanque esvaziar.\nFale conosco no WhatsApp (link na bio).\n#gestaodefrotas #combustivel #logistica #americatrack",
+    "frames": [
+      { "file": "p02-combustivel.png", "alt": "Post Americatrack: 'O erro mais caro da frota: achar que combustível alto é culpa do motorista.' Cartão 'A dor: a rota errada queima diesel antes de você perceber.' Cartão 'O benefício AMX: mostra a rota certa antes do tanque esvaziar.' CTA 'Fale conosco no WhatsApp'." }
+    ]
+  },
+  "P03": {
+    "titulo": "O que a câmera resolve",
+    "data": "26/08",
+    "legenda": "Câmera na frota não é olho do patrão.\nEla resolve duas coisas: prova do que aconteceu e prevenção do que pode acontecer.\nCom videotelemetria, você enxerga a operação antes do problema virar custo.\nFale conosco no WhatsApp (link na bio).\n#videotelemetria #gestaodefrotas #logistica #americatrack",
+    "frames": [
+      { "file": "p03-videotelemetria.png", "alt": "Post Americatrack: 'A câmera na frota não vigia o motorista. Ela resolve duas coisas.' Cartão '1. Prova: o que aconteceu num acidente ou sinistro.' Cartão '2. Prevenção: dirigibilidade que evita a próxima ocorrência.' CTA 'Fale conosco no WhatsApp'." }
+    ]
+  },
+  "P04": {
+    "titulo": "Telemetria em linguagem simples",
+    "data": "30/08",
+    "legenda": "Telemetria em linguagem simples: é o que o seu caminhão conta sobre si mesmo.\nVelocidade, rota, freadas, tempo parado.\nO AMX traduz isso em informação que o dono entende.\nFale conosco no WhatsApp (link na bio).\n#telemetria #gestaodefrotas #logistica #americatrack",
+    "frames": [
+      { "file": "p04-telemetria.png", "alt": "Post Americatrack: 'Telemetria é o que o seu caminhão conta sobre si mesmo: velocidade, rota, freadas, tempo parado.' Cartão 'O AMX traduz isso em informação que o dono entende: onde economizar e o que melhorar.' CTA 'Fale conosco no WhatsApp'." }
+    ]
+  },
+  "ST01": {
+    "titulo": "Dirigibilidade: o que a câmera resolve",
+    "data": "21/08",
+    "legenda": "Dirigibilidade é o que a câmera resolve. Fale conosco no WhatsApp (link na bio).",
+    "frames": [
+      { "file": "st01-dirigibilidade-story-1.png", "alt": "Story 1 de 3, fundo escuro: 'A câmera não tira o olho da estrada.'" },
+      { "file": "st01-dirigibilidade-story-2.png", "alt": "Story 2 de 3: 'Freada brusca. Desvio. Risco. A câmera mostra o que o olho humano perde.'" },
+      { "file": "st01-dirigibilidade-story-3.png", "alt": "Story 3 de 3: 'Quer ver na sua frota?' com botão CTA 'Fale conosco no WhatsApp'." }
+    ]
+  },
+  "ST02": {
+    "titulo": "Central 24h (stories + capa de destaque)",
+    "data": "24/08",
+    "legenda": "(sem legenda de apoio adicional — texto já vai na arte)",
+    "frames": [
+      { "file": "st02-central24h-frame-1.png", "alt": "Story 1 de 3, fundo escuro: 'Tem gente acompanhando sua frota 24 horas por dia.'" },
+      { "file": "st02-central24h-frame-2.png", "alt": "Story 2 de 3: 'Qualquer hora, qualquer problema, a central responde.' com botão CTA 'Fale conosco no WhatsApp'." },
+      { "file": "st02-central24h-frame-3.png", "alt": "Capa de destaque do feed: 'Central 24h — Sua frota acompanhada a qualquer hora.'" }
+    ]
+  },
+  "ST03": {
+    "titulo": "Rota do dia · suporte",
+    "data": "27/08",
+    "legenda": "(sem legenda de apoio adicional — texto já vai na arte)",
+    "frames": [
+      { "file": "st03-bastidores-story-1.png", "alt": "Story 1 de 3, fundo escuro: 'A rota de hoje começa antes do motorista dar a partida.'" },
+      { "file": "st03-bastidores-story-2.png", "alt": "Story 2 de 3: 'Problema na estrada? A central acompanha e orienta na hora.'" },
+      { "file": "st03-bastidores-story-3.png", "alt": "Story 3 de 3: 'Roteirização, câmeras e central no mesmo time.' com botão CTA 'Fale conosco no WhatsApp'." }
+    ]
+  }
+}

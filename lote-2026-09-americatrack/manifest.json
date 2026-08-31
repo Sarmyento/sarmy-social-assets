@@ -1,0 +1,226 @@
+[
+  {
+    "sku": "C01",
+    "file": "c01-roteirizacao-slide-1.png",
+    "width": 1080,
+    "height": 1350,
+    "index": 1,
+    "total": 5
+  },
+  {
+    "sku": "C01",
+    "file": "c01-roteirizacao-slide-2.png",
+    "width": 1080,
+    "height": 1350,
+    "index": 2,
+    "total": 5
+  },
+  {
+    "sku": "C01",
+    "file": "c01-roteirizacao-slide-3.png",
+    "width": 1080,
+    "height": 1350,
+    "index": 3,
+    "total": 5
+  },
+  {
+    "sku": "C01",
+    "file": "c01-roteirizacao-slide-4.png",
+    "width": 1080,
+    "height": 1350,
+    "index": 4,
+    "total": 5
+  },
+  {
+    "sku": "C01",
+    "file": "c01-roteirizacao-slide-5.png",
+    "width": 1080,
+    "height": 1350,
+    "index": 5,
+    "total": 5
+  },
+  {
+    "sku": "C02",
+    "file": "c02-3dores-slide-1.png",
+    "width": 1080,
+    "height": 1350,
+    "index": 1,
+    "total": 5
+  },
+  {
+    "sku": "C02",
+    "file": "c02-3dores-slide-2.png",
+    "width": 1080,
+    "height": 1350,
+    "index": 2,
+    "total": 5
+  },
+  {
+    "sku": "C02",
+    "file": "c02-3dores-slide-3.png",
+    "width": 1080,
+    "height": 1350,
+    "index": 3,
+    "total": 5
+  },
+  {
+    "sku": "C02",
+    "file": "c02-3dores-slide-4.png",
+    "width": 1080,
+    "height": 1350,
+    "index": 4,
+    "total": 5
+  },
+  {
+    "sku": "C02",
+    "file": "c02-3dores-slide-5.png",
+    "width": 1080,
+    "height": 1350,
+    "index": 5,
+    "total": 5
+  },
+  {
+    "sku": "C03",
+    "file": "c03-subutilizacao-slide-1.png",
+    "width": 1080,
+    "height": 1350,
+    "index": 1,
+    "total": 5
+  },
+  {
+    "sku": "C03",
+    "file": "c03-subutilizacao-slide-2.png",
+    "width": 1080,
+    "height": 1350,
+    "index": 2,
+    "total": 5
+  },
+  {
+    "sku": "C03",
+    "file": "c03-subutilizacao-slide-3.png",
+    "width": 1080,
+    "height": 1350,
+    "index": 3,
+    "total": 5
+  },
+  {
+    "sku": "C03",
+    "file": "c03-subutilizacao-slide-4.png",
+    "width": 1080,
+    "height": 1350,
+    "index": 4,
+    "total": 5
+  },
+  {
+    "sku": "C03",
+    "file": "c03-subutilizacao-slide-5.png",
+    "width": 1080,
+    "height": 1350,
+    "index": 5,
+    "total": 5
+  },
+  {
+    "sku": "P01",
+    "file": "p01-relatorio.png",
+    "width": 1080,
+    "height": 1350,
+    "index": 1,
+    "total": 1
+  },
+  {
+    "sku": "P02",
+    "file": "p02-combustivel.png",
+    "width": 1080,
+    "height": 1350,
+    "index": 1,
+    "total": 1
+  },
+  {
+    "sku": "P03",
+    "file": "p03-videotelemetria.png",
+    "width": 1080,
+    "height": 1350,
+    "index": 1,
+    "total": 1
+  },
+  {
+    "sku": "P04",
+    "file": "p04-telemetria.png",
+    "width": 1080,
+    "height": 1350,
+    "index": 1,
+    "total": 1
+  },
+  {
+    "sku": "ST01",
+    "file": "st01-dirigibilidade-story-1.png",
+    "width": 1080,
+    "height": 1920,
+    "index": 1,
+    "total": 3
+  },
+  {
+    "sku": "ST01",
+    "file": "st01-dirigibilidade-story-2.png",
+    "width": 1080,
+    "height": 1920,
+    "index": 2,
+    "total": 3
+  },
+  {
+    "sku": "ST01",
+    "file": "st01-dirigibilidade-story-3.png",
+    "width": 1080,
+    "height": 1920,
+    "index": 3,
+    "total": 3
+  },
+  {
+    "sku": "ST02",
+    "file": "st02-central24h-frame-1.png",
+    "width": 1080,
+    "height": 1920,
+    "index": 1,
+    "total": 3
+  },
+  {
+    "sku": "ST02",
+    "file": "st02-central24h-frame-2.png",
+    "width": 1080,
+    "height": 1920,
+    "index": 2,
+    "total": 3
+  },
+  {
+    "sku": "ST02",
+    "file": "st02-central24h-frame-3.png",
+    "width": 1080,
+    "height": 1920,
+    "index": 3,
+    "total": 3
+  },
+  {
+    "sku": "ST03",
+    "file": "st03-bastidores-story-1.png",
+    "width": 1080,
+    "height": 1920,
+    "index": 1,
+    "total": 3
+  },
+  {
+    "sku": "ST03",
+    "file": "st03-bastidores-story-2.png",
+    "width": 1080,
+    "height": 1920,
+    "index": 2,
+    "total": 3
+  },
+  {
+    "sku": "ST03",
+    "file": "st03-bastidores-story-3.png",
+    "width": 1080,
+    "height": 1920,
+    "index": 3,
+    "total": 3
+  }
+]
